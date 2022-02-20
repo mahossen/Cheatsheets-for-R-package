@@ -1,4 +1,7 @@
 
+## Self declearation
+I have cloned all cheatsheets from https://github.com/rstudio/cheatsheets.
+
 ## RStudio Cheatsheets
 
 <img src="pngs/rstudio-ide.png" width=364 height=288 align="right"/>
